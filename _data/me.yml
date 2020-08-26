@@ -1,0 +1,82 @@
+name: "Oliver Gaida"
+first: Oliver
+last: Gaida
+email: ogaida@t-online.de
+city: Duderstadt
+country: Deutschland
+statement: |
+  Ich bin ein erfahrener IT-Experte und vorwiegend auf der Kommandozeile unterwegs.
+
+  __Mein Motto:__ wiederkehrende Prozesse werden automatisiert, das spart Zeit und Schreibfehler.
+  <br><br>
+social_contacts:
+  - stackoverflow:
+    link: https://stackoverflow.com/users/11000412/oliver-gaida
+    fontawesome_icon: fa-stack-overflow
+  - github:
+    link: https://github.com/ogaida
+    fontawesome_icon: fa-github
+  - xing:
+    link: https://www.xing.com/profile/Oliver_Gaida
+    fontawesome_icon: fa-xing
+  # fa-twitter
+  # fa-linkedin-in
+jobs:
+  - company: Sycor GmbH
+    title: System Engineer
+    period: Januar 2018 - heute
+    description: |
+      - Automatisierung mit Ansible
+      - Entwicklung von Ansible-Modulen und div. Clienttools [github](https://github.com/ogaida?tab=repositories)
+      - Administration Checkmk, Apache2x, MySQL, SFTP, FTP, DNS und Proxy (Squid, Blue Coat)
+      - Scripting mit Ruby, Perl, Bash, Powershell, VBA
+  - company: T-Systems Solutions for Research GmbH
+    title: Web Solutions Specialist
+    period: Oktober 2010 - Dezember 2017
+    description: |
+      - Administration von Apache, Eprints, mysql, FTP, SFTP, F*EX
+      - Automatisierung mit Ansible und Ruby-Modul Thor
+      - Scripting mit Ruby, Perl, Bash
+  - company: Immobilien Scout GmbH
+    title: Applikationsmanagement und Monitoring
+    period: April 2007 - September 2010
+    description: |
+      - Administration von Nagios und Cacti
+      - Visualisierung von Monitoringkennzahlen mit der selfmade Rails-App Chartbuilder
+      - Scripting mit Ruby, Perl, Bash
+  - company: V&ouml;lcker Informatik AG
+    title: IT Consultant
+    period: Oktober 1998 - März 2007
+    description: |
+      - Automatisierung von Prozessen mit Active Entry Jobchains
+      - Administration Active Directory, Exchange, MSSQL-Server und Oracle
+      - Scripting mit Perl, VBScript, Windows-Shell und SQL
+studies:
+  - short_where: Linux Foundation
+    to: Linux Professional Institute Certified Level 1
+    where: Linux Professional Institute Certified Level 1
+    when: 2015
+  - short_where: IHK
+    to: Mathematisch-technischer Assistent Mathematik und Informatik
+    where: Betriebswirtschaftliche Fortbildungsgesellschaft in Lichtenberg mbH , Berlin, Deutschland
+    when: 1996 - 1998
+  - short_where: TU Berlin
+    to: Technomathematik - ohne Abschluss
+    where: Technische Universität Berlin
+    when: 1991 - 1996
+  - short_where: Werk f&uuml;r Fernsehelektronik
+    to: Elektronikfacharbeiter mit Abitur
+    where: Werk f&uuml;r Fernsehelektronik Berlin
+    when: 1987 - 1990
+skills: |
+  - Ansible
+  - Ruby, Perl, Bash, Powershell, Python und VB
+  - Virtualisierung mit VMware, Virtualbox, Parallels und vagrant
+  - Operating Systems MacOS, Linux, Windows, ChromeOS
+  - regular expressions
+  - REST-APIs
+  - WEB-Applications mit Ruby-Sinatra und RubyOnRails
+interessen: |
+  - Familie
+  - Gitarre
+  - Snooker
