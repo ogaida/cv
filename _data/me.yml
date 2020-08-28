@@ -23,7 +23,7 @@ social_contacts:
   # fa-linkedin-in
 jobs:
   - company: Sycor GmbH
-    title: System Engineer
+    title: DevOps-Engineer
     period: Januar 2018 - heute
     description: |
       - Automatisierung mit Ansible
