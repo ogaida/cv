@@ -42,7 +42,7 @@ jobs:
     period: April 2007 - September 2010
     description: |
       - Administration von Nagios und Cacti
-      - Visualisierung von Monitoringkennzahlen mit der selfmade Rails-App [logpool](https://sourceforge.net/projects/log4jpool/)
+      - Visualisierung von Monitoringkennzahlen mit der selfmade Ruby-on-Rails Anwendung [logpool](https://sourceforge.net/projects/log4jpool/)
       - Scripting mit Ruby, Perl, Bash
   - company: V&ouml;lcker Informatik AG
     title: IT Consultant
