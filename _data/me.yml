@@ -42,15 +42,17 @@ jobs:
     period: April 2007 - September 2010
     description: |
       - Administration von Nagios und Cacti
-      - Visualisierung von Monitoringkennzahlen mit der selfmade Rails-App Chartbuilder
+      - Visualisierung von Monitoringkennzahlen mit der selfmade Rails-App logpool ([https://olivergaida.schnatzefatt.de/](https://olivergaida.schnatzefatt.de/))
       - Scripting mit Ruby, Perl, Bash
   - company: V&ouml;lcker Informatik AG
     title: IT Consultant
     period: Oktober 1998 - März 2007
     description: |
       - Automatisierung von Prozessen mit Active Entry Jobchains
-      - Administration Active Directory, Exchange, MSSQL-Server und Oracle
+      - Administration von Active Directory, Exchange, MSSQL-Server und Oracle
       - Scripting mit Perl, VBScript, Windows-Shell und SQL
+      - Softwarepaketierung
+      - Erstellung unattend-Setups und Planung von PC-Massenroleouts
 studies:
   - short_where: Linux Foundation
     to: Linux Professional Institute Certified Level 2
