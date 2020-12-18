@@ -74,6 +74,10 @@ studies:
     when: 1987 - 1990
 skills: |
   - Ansible
+  - Cloud Azure, Openstack
+  - docker
+  - github, gogs, gitpod (theia)
+  - stackoverflow
   - Ruby, Perl, Bash, Powershell, Python und VB
   - Virtualisierung mit VMware, Virtualbox, Parallels und vagrant
   - Operating Systems MacOS, Linux, Windows, ChromeOS
@@ -81,6 +85,7 @@ skills: |
   - REST-APIs
   - WEB-Applications mit Ruby-Sinatra und RubyOnRails
   - Static-Site-Generator jekyll
+  - check_mk, nagios, rrd
 interessen: |
   - Familie
   - Gitarre
