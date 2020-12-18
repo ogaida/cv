@@ -74,7 +74,7 @@ studies:
     when: 1987 - 1990
 skills: |
   - Ansible
-  - Cloud Azure, Openstack
+  - Cloud: Azure, Openstack
   - docker
   - github, gogs, gitpod (theia)
   - stackoverflow
