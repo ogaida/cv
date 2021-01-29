@@ -29,7 +29,7 @@ jobs:
       - Automatisierung mit Ansible
       - Entwicklung von Ansible-Modulen und div. Clienttools [github](https://github.com/ogaida?tab=repositories)
       - Administration Checkmk, Apache2x, MySQL, SFTP, FTP, DNS und Proxy (Squid, Blue Coat)
-      - Scripting mit Ruby, Perl, Bash, Powershell, VBA
+      - Scripting mit Ruby, Perl, Python, Bash, Powershell, VBA
   - company: T-Systems Solutions for Research GmbH
     title: Web Solutions Specialist
     period: Oktober 2010 - Dezember 2017
