@@ -27,6 +27,9 @@ jobs:
     period: April 2021 - heute
     description: |
       - Automatisierung mit Ansible
+      - Administration diverser Cloud-Services
+      - Administration von Datenbanken wie MSSQL, MongoDB und MySQL
+      - Monitoring und Performanceoptimierung
   - company: Sycor GmbH
     title: DevOps-Engineer
     period: Januar 2018 - März 2021
