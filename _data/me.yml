@@ -22,9 +22,14 @@ social_contacts:
   # fa-twitter
   # fa-linkedin-in
 jobs:
+  - company: mediaBEAM GmbH
+    title: DevOps-Engineer
+    period: April 2021 - heute
+    description: |
+      - Automatisierung mit Ansible
   - company: Sycor GmbH
     title: DevOps-Engineer
-    period: Januar 2018 - heute
+    period: Januar 2018 - März 2021
     description: |
       - Automatisierung mit Ansible
       - Entwicklung von Ansible-Modulen und div. Clienttools [github](https://github.com/ogaida?tab=repositories)
