@@ -30,6 +30,7 @@ jobs:
       - Administration diverser Cloud-Services
       - Scripting in Bash und Powershell
       - Monitoring und Performance-Optimierung
+      - Web-Admin
   - company: Sycor GmbH
     title: DevOps-Engineer
     period: Januar 2018 - März 2021
