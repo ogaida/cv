@@ -28,7 +28,7 @@ jobs:
     description: |
       - Automatisierung mit Ansible
       - Administration diverser Cloud-Services
-      - Administration von Datenbanken wie MSSQL, MongoDB und MySQL
+      - Scripting in Bash und Powershell
       - Monitoring und Performance-Optimierung
   - company: Sycor GmbH
     title: DevOps-Engineer
