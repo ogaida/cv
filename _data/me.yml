@@ -95,7 +95,7 @@ skills: |
   - REST-APIs
   - WEB-Applications mit Ruby-Sinatra und RubyOnRails
   - Static-Site-Generator jekyll
-  - check_mk, nagios, rrd
+  - check_mk, nagios, rrd, prometheus
 interessen: |
   - Familie
   - Gitarre
