@@ -9,9 +9,10 @@
     <br><hr><br> 
     <form action = "/cgi-bin/upload_school_2022.pl"
           method = "post" enctype = "multipart/form-data">
-    <p>Upload Photo: <input type = "file" name = "photo" /></p>
+    <p>Upload Photo: <input type = "file" name = "photo" required/></p>
     <p>Kind: 
-        <select name="kind" id="kind">
+        <select name="kind" id="kind" required>
+        <option value="">Bitte wähle Dein Kind aus!</option>
         <optgroup label="4c1">
         </optgroup>
         <optgroup label="4c2">
