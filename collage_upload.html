@@ -15,7 +15,7 @@
             <li>auf "Foto hochladen" klicken</li>
         </ol>-->
     <br><hr><br> 
-    <form action = "/cgi-bin/upload_school_2022.pl"
+    <form id="upload" action = "/cgi-bin/upload_school_2022.pl"
           method = "post" enctype = "multipart/form-data">
     <p>Foto-Upload: <input type = "file" name = "photo" required/></p>
     <p>Kind: 
@@ -45,5 +45,10 @@
     <p><input type = "submit" name = "Submit" value = "Foto hochladen"/></p>
     </form> 
     </h2>
+    <script>
+        function myFunction() {
+          document.getElementById("upload").reset();
+        }
+    </script>
 </body>
 </html>          
