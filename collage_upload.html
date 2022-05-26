@@ -1,0 +1,39 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head>
+    <meta http-equiv = "Content-Type" content = "text/html; charset=utf-8" /> 
+    <title>File Upload</title>
+</head> 
+<body> 
+    <h1> Foto-Collage Foto-Upload</h1>
+    <br><hr><br> 
+    <form action = "/cgi-bin/upload_school_2022.pl"
+          method = "post" enctype = "multipart/form-data">
+    <p>Upload Photo: <input type = "file" name = "photo" /></p>
+    <p>Kind: 
+        <select name="kind" id="kind">
+        <optgroup label="4c1">
+        </optgroup>
+        <optgroup label="4c2">
+            <option value="Alessia Müller">Alessia Müller</option>
+            <option value="Annika Schlesinger">Annika Schlesinger</option>
+            <option value="Charlotte Sommer">Charlotte Sommer</option>
+            <option value="Emil Hennig">Emil Hennig</option>
+            <option value="Emily Häuser">Emily Häuser</option>
+            <option value="Emma Stahl">Emma Stahl</option>
+            <option value="Fynn Adam">Fynn Adam</option>
+            <option value="Gabriel Colosio">Gabriel Colosio</option>
+            <option value="Hannah Alayan">Hannah Alayan</option>
+            <option value="Josephine Jacobi">Josephine Jacobi</option>
+            <option value="Lina Stanischewski">Lina Stanischewski</option>
+            <option value="Luan Tahiri">Luan Tahiri</option>
+            <option value="Lucy Kozyrski">Lucy Kozyrski</option>
+            <option value="Martha Marschall">Martha Marschall</option>
+            <option value="Mathilda Klingebiel">Mathilda Klingebiel</option>
+            <option value="Sophie Gaida">Sophie Gaida</option>
+        </optgroup>
+      </select></p>
+    <p><input type = "submit" name = "Submit" value = "vati"/></p>
+    </form> 
+</body>
+</html>          
