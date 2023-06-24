@@ -24,6 +24,7 @@ social_contacts:
 jobs:
   - company: mediaBEAM GmbH
     title: DevOps-Engineer
+    link: https://www.mediabeam.com
     period: April 2021 - heute
     description: |
       - Automatisierung mit Ansible
