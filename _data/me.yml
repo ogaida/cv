@@ -19,6 +19,9 @@ social_contacts:
   - xing:
     link: https://www.xing.com/profile/Oliver_Gaida
     fontawesome_icon: fa-xing
+  - youtube:
+    link: https://www.youtube.com/@olivergaida8335/featured
+    fontawesome_icon: fa-youtube
   # fa-twitter
   # fa-linkedin-in
 jobs:
