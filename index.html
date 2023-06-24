@@ -90,7 +90,13 @@
           <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
             <div class="resume-content">
               <h3 class="mb-0">{{ item.title }}</h3>
-              <div class="subheading mb-3">{{ item.company }}</div>
+              {% if item.link %}
+                <a href="{{ item.link }}">
+                    <div class="subheading mb-3">{{ item.company }}</div>
+                </a>
+              {% else %}
+                <div class="subheading mb-3">{{ item.company }}</div>
+              {% endif %}
               <p>{{ item.description | markdownify }}</p>
             </div>
             <div class="resume-date text-md-right">
