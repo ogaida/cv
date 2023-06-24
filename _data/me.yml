@@ -32,6 +32,7 @@ jobs:
       - Scripting in Bash und Powershell
       - Monitoring und Performance-Optimierung
   - company: Sycor GmbH
+    link: https://sycor-group.com/
     title: DevOps-Engineer
     period: Januar 2018 - März 2021
     description: |
@@ -40,6 +41,7 @@ jobs:
       - Administration Checkmk, Apache2x, MySQL, SFTP, FTP, DNS und Proxy (Squid, Blue Coat)
       - Scripting mit Ruby, Perl, Python, Bash, Powershell, VBA, SQL
   - company: T-Systems Solutions for Research GmbH
+    link: https://www.t-systems.com/
     title: Web Solutions Specialist
     period: Oktober 2010 - Dezember 2017
     description: |
@@ -47,6 +49,7 @@ jobs:
       - Automatisierung mit Ansible und Ruby-Modul Thor
       - Scripting mit Ruby, Perl, Bash
   - company: Immobilien Scout GmbH
+    link: https://www.immobilienscout24.de/
     title: Applikationsmanagement und Monitoring
     period: April 2007 - September 2010
     description: |
@@ -54,6 +57,7 @@ jobs:
       - Visualisierung von Monitoringkennzahlen mit der selfmade Ruby-on-Rails Anwendung [logpool](https://sourceforge.net/projects/log4jpool/)
       - Scripting mit Ruby, Perl, Bash
   - company: V&ouml;lcker Informatik AG
+    link: https://www.oneidentity.com/
     title: IT Consultant
     period: Oktober 1998 - März 2007
     description: |
