@@ -1,2 +1,6 @@
 # jekyll serve --baseurl ''
 baseurl: olivergaida.schnatzefatt.de
+
+## new release:
+# git tag release-name
+# git push --tags
