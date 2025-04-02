@@ -71,6 +71,10 @@ jobs:
       - Erstellung unattend-Setups und Planung von PC-Massenroleouts
 studies:
   - short_where: Linux Foundation
+    to: Linux Professional Institute Certified Level 3
+    where: Linux Professional Institute Certified Level 3
+    when: 2025
+  - short_where: Linux Foundation
     to: Linux Professional Institute Certified Level 2
     where: Linux Professional Institute Certified Level 2
     when: 2020
